@@ -1,4 +1,1 @@
 # kitasatsu
-<a href=/nishioka/TTIndex.html>西岡線</a>
-<a href=/Okadama/TTIndex.html>丘珠線</a>
-<a href=/Nopporo/TTIndex.html>野幌線</a>
