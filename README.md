@@ -9,5 +9,6 @@
     <a href=/kitasatsu//nishioka/TTIndex.html>西岡線</a>
     <a href=/kitasatsu//Okadama/TTIndex.html>丘珠線</a>
     <a href=/kitasatsu//Nopporo/TTIndex.html>野幌線</a>
+    <a href=/kitasatsu//Kosoku/TTIndex.html>高速電車線</a>
   </body>
 </html>
